@@ -7,6 +7,7 @@
             <div class="people-picture" style="position:relative">
                 <img class="people-img" src="/img/people/PeterChoi_Photo.jpg" style="width:150px">
             </div>
+            <!-- -->
             <div class="people-text">
                 <p style=font-weight:600;font-size:20px>Peter Choi, Ph.D.</p>
                 <span style=font-weight:400>Email:</span> choip [at] chop.edu<br>

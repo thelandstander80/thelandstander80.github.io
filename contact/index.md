@@ -1,7 +1,7 @@
 # Contact
 
 <div class="contact-grid-wrapper">
-    <div class="contact-info" style="text-align:left;margin-left:auto;">
+    <div class="contact-info">
         <!--- Put email information here? But how to avoid spambots? --->
         <br>
         <span style="font-weight:400">Email:</span>
@@ -23,10 +23,14 @@
         4th Floor Room 4064</span><br>
         <br>
     </div>
-    <div class="">
+    <div class="contact-map">
         <!--- Embedded Google Map of CTRB --->
-        <div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Colket%20Translational%20Research%20Building&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-        </div><style>.mapouter{text-align:right;height:300px;width:300px;margin-right:auto}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;margin-top:2em;margin-left:3em;border:1px solid #5b5b5b;box-shadow: 4px 4px 4px #e0e0e0;}</style></div>
+        <div class="mapouter">
+        <div class="gmap_canvas">
+            <iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Colket%20Translational%20Research%20Building&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+            </iframe>
+        </div>
+        </div>
     </div>
     <!-- <div class="contact-photo-grid-item">
         <!--- Picture of something --->
