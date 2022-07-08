@@ -30,7 +30,7 @@
         <div class="flex-container">
             <!-- Amanda Lee -->
             <div class="people-picture" style="position:relative">
-                <img class="people-img" src="/img/people/AmandaLee_Photo.jpg" style="width:150px">
+                <img class="people-img" src="/img/people/Amanda_Lee_portrait.png" style="width:150px">
             </div>
             <div class="people-text">
                 <p style=font-weight:600;font-size:20px>Amanda Lee</p>
@@ -47,16 +47,39 @@
             </div>
         </div>
     </div>
-    <div class="people-grid-item">
+        <div class="people-grid-item">
         <div class="flex-container">
-            <!-- Chris Penney -->
+            <!-- Amanda Lee -->
             <div class="people-picture" style="position:relative">
-                <img class="people-img" src="/img/people/ChrisPenney_Photo.jpg" style="width:150px">
+                <img class="people-img" src="/img/people/Josue_portrait_cropped.png" style="width:150px">
             </div>
             <div class="people-text">
-                <p style=font-weight:600;font-size:20px>Chris Penney</p>
+                <p style=font-weight:600;font-size:20px>Josue Medor</p>
                 <!-- <span style=font-weight:400>Email:</span> lee533 [at] pennmedicine.upenn.edu<br> -->
-                Research Technician<br>
+                PhD Student<br>
+                CAMB Cancer Biology<br>
+                <br>
+                <!-- <span style="text-decoration:none;font-weight:400">Education & Training:</span><br>
+                Postdoctoral Fellow <a class="link_out" href=https://meyersonlab.dana-farber.org/ target="blank">(Matthew Meyerson Lab)</a><br>
+                <i>Dana-Farber Cancer Institute and Broad Institute</i><br>
+                <br>
+                Ph.D., Immunology <a class="link_out" href=http://med.stanford.edu/felsherlab.html target="blank">(Dean Felsher Lab)</a><br>
+                <i>Stanford University School of Medicine></i><br> -->
+            </div>
+        </div>
+    </div>
+        <div class="people-grid-item">
+        <div class="flex-container">
+            <!-- Amanda Lee -->
+            <div class="people-picture" style="position:relative">
+                <img class="people-img" src="/img/people/Amanda_Weiss_portrait.png" style="width:150px">
+            </div>
+            <div class="people-text">
+                <p style=font-weight:600;font-size:20px>Amanda Weiss</p>
+                <!-- <span style=font-weight:400>Email:</span> lee533 [at] pennmedicine.upenn.edu<br> -->
+                PhD Student<br>
+                CAMB Genetics and Epigenetics<br>
+                <br>
                 <!-- <span style="text-decoration:none;font-weight:400">Education & Training:</span><br>
                 Postdoctoral Fellow <a class="link_out" href=https://meyersonlab.dana-farber.org/ target="blank">(Matthew Meyerson Lab)</a><br>
                 <i>Dana-Farber Cancer Institute and Broad Institute</i><br>
@@ -70,7 +93,7 @@
         <div class="flex-container">
             <!-- Kevin Yang -->
             <div class="people-picture" style="position:relative">
-                <img class="people-img" src="/img/people/KevinYang_Photo.jpg" style="width:150px">
+                <img class="people-img" src="/img/people/Kevin_Yang_portrait_cropped.png" style="width:150px">
             </div>
             <div class="people-text">
                 <p style=font-weight:600;font-size:20px>Kevin Yang</p>
@@ -92,15 +115,35 @@
     <h1 style="text-align:center">Alumni</h1>
     <div class="people-grid-item">
         <div class="flex-container">
+            <!-- Chris Penney -->
+            <div class="people-picture" style="position:relative">
+                <img class="people-img" src="/img/people/ChrisPenney_Photo.jpg" style="width:150px">
+            </div>
+            <div class="people-text">
+                <p style=font-weight:600;font-size:20px>Chris Penney</p>
+                <!-- <span style=font-weight:400>Email:</span> none [at] pennmedicine.upenn.edu<br> -->
+                <span style="text-decoration:none;font-weight:400">Former Position: Research Technician</span><br>
+                <span style="text-decoration:none;font-weight:400">Current Position: Data Scientist (CHOP)<br>                
+                <!-- <span style="text-decoration:none;font-weight:400">Education & Training:</span><br>
+                Postdoctoral Fellow <a class="link_out" href=https://meyersonlab.dana-farber.org/ target="blank">(Matthew Meyerson Lab)</a><br>
+                <i>Dana-Farber Cancer Institute and Broad Institute</i><br>
+                <br>
+                Ph.D., Immunology <a class="link_out" href=http://med.stanford.edu/felsherlab.html target="blank">(Dean Felsher Lab)</a><br>
+                <i>Stanford University School of Medicine></i><br> -->
+            </div>
+        </div>
+    </div>
+    <div class="people-grid-item">
+        <div class="flex-container">
             <!-- Lauren Lairson -->
             <div class="people-picture" style="position:relative">
                 <img class="people-img" src="/img/people/LaurenLairson_Photo.jpg" style="width:150px">
             </div>
             <div class="people-text">
                 <p style=font-weight:600;font-size:20px>Lauren Lairson</p>
-                <!-- <span style=font-weight:400>Email:</span> lee533 [at] pennmedicine.upenn.edu<br> -->
+                <!-- <span style=font-weight:400>Email:</span> none [at] pennmedicine.upenn.edu<br> -->
                 <span style="text-decoration:none;font-weight:400">Former Position: Research Technician</span><br>
-                <span style="text-decoration:none;font-weight:400">Current Position: Genetic Counseling Assistant<br>
+                <span style="text-decoration:none;font-weight:400">Current Position: Genetic Counseling Assistant (CHOP)<br>
             </div>
         </div>
     </div>
@@ -112,11 +155,26 @@
             </div>
             <div class="people-text">
                 <p style=font-weight:600;font-size:20px>Mike Ruggiero, M.S.</p>
-                <!-- <span style=font-weight:400>Email:</span> lee533 [at] pennmedicine.upenn.edu<br> -->
+                <!-- <span style=font-weight:400>Email:</span> none [at] pennmedicine.upenn.edu<br> -->
                 <span style="text-decoration:none;font-weight:400">Former Position: Lab Manager (joint with Thomas-Tikhonenko Lab)</span><br>
                 <span style="text-decoration:none;font-weight:400">Current Position: Tmunity Therapeutics<br>
             </div>
         </div>
-    </div>    
+    </div>
+    <div class="people-text">
+        <p style=font-weight:600;font-size:20px>Austin King</p>
+        <!-- <span style=font-weight:400>Email:</span> none [at] pennmedicine.upenn.edu<br> -->
+        <span style="text-decoration:none;font-weight:400">Rotation Student Spring 2022</span><br>
+    </div>
+    <div class="people-text">
+        <p style=font-weight:600;font-size:20px>Joshua Shaffer</p>
+        <!-- <span style=font-weight:400>Email:</span> none [at] pennmedicine.upenn.edu<br> -->
+        <span style="text-decoration:none;font-weight:400">Rotation Student Winter 2020</span><br>
+    </div>
+    <div class="people-text">
+        <p style=font-weight:600;font-size:20px>Erick Mitchell-Velasquez</p>
+        <!-- <span style=font-weight:400>Email:</span> none [at] pennmedicine.upenn.edu<br> -->
+        <span style="text-decoration:none;font-weight:400">Rotation Student Spring 2020</span><br>
+    </div>
 </div>
 
