@@ -47,7 +47,7 @@
             </div>
         </div>
     </div>
-        <div class="people-grid-item">
+    <div class="people-grid-item">
         <div class="flex-container">
             <!-- Amanda Lee -->
             <div class="people-picture" style="position:relative">
@@ -68,7 +68,27 @@
             </div>
         </div>
     </div>
-        <div class="people-grid-item">
+    <div class="people-grid-item">
+        <div class="flex-container">
+            <!-- Amanda Lee -->
+            <div class="people-picture" style="position:relative">
+                <img class="people-img" src="/img/people/Anna_portrait_cropped.png" style="width:150px">
+            </div>
+            <div class="people-text">
+                <p style=font-weight:600;font-size:20px>Anna Tangiyan</p>
+                <!-- <span style=font-weight:400>Email:</span> lee533 [at] pennmedicine.upenn.edu<br> -->
+                Research Technician<br>
+                <br>
+                <!-- <span style="text-decoration:none;font-weight:400">Education & Training:</span><br>
+                Postdoctoral Fellow <a class="link_out" href=https://meyersonlab.dana-farber.org/ target="blank">(Matthew Meyerson Lab)</a><br>
+                <i>Dana-Farber Cancer Institute and Broad Institute</i><br>
+                <br>
+                Ph.D., Immunology <a class="link_out" href=http://med.stanford.edu/felsherlab.html target="blank">(Dean Felsher Lab)</a><br>
+                <i>Stanford University School of Medicine></i><br> -->
+            </div>
+        </div>
+    </div>
+    <div class="people-grid-item">
         <div class="flex-container">
             <!-- Amanda Lee -->
             <div class="people-picture" style="position:relative">
