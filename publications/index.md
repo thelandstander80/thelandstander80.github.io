@@ -7,6 +7,10 @@ Journal citation
 \
 --->
 # Selected publications:
+* [Machine learning-optimized targeted detection of alternative splicing.](https://pubmed.ncbi.nlm.nih.gov/39727154/)  
+    Yang K, Islas N, Jewell S, Wu D, Jha A, Radens CM, Pleiss JA, Lynch KW, Barash Y\*, **Choi PS\***.  
+    *Nucleic Acids Research*. 2024 Dec 27:gkae1260.
+
 * [A genome-scale CRISPR screen reveals PRMT1 as a critical regulator of androgen receptor signaling in prostate cancer.](https://pubmed.ncbi.nlm.nih.gov/35196489/)  
     Tang S\*, Sethunath V\*, Metaferia NY, Nogueira MF, Gallant DS, Garner ER, Lairson LA, Penney CM, Li J, Gelbard MK, Alaiwi SA, Seo J, Hwang JH, Strathdee CA, Baca SC, AbuHammad S, Zhang X, Doench JG, Hahn WC, Takeda DY, Freedman ML, **Choi PS\***, Viswanathan SR\*.  
     *Cell Reports*. 2022 Feb 22;38(8):110417.

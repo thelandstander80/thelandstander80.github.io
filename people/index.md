@@ -68,27 +68,6 @@
             </div>
         </div>
     </div>
-        <div class="people-grid-item">
-        <div class="flex-container">
-            <!-- Isha Singh -->
-            <div class="people-picture" style="position:relative">
-                <img class="people-img" src="/img/people/Isha_Singh_portrait_cropped.png" style="width:150px">
-            </div>
-            <div class="people-text">
-                <p style=font-weight:600;font-size:20px>Isha Singh</p>
-                <!-- <span style=font-weight:400>Email:</span> lee533 [at] pennmedicine.upenn.edu<br> -->
-                Undergraduate Student<br>
-                Drexel University<br>
-                <br>
-                <!-- <span style="text-decoration:none;font-weight:400">Education & Training:</span><br>
-                Postdoctoral Fellow <a class="link_out" href=https://meyersonlab.dana-farber.org/ target="blank">(Matthew Meyerson Lab)</a><br>
-                <i>Dana-Farber Cancer Institute and Broad Institute</i><br>
-                <br>
-                Ph.D., Immunology <a class="link_out" href=http://med.stanford.edu/felsherlab.html target="blank">(Dean Felsher Lab)</a><br>
-                <i>Stanford University School of Medicine></i><br> -->
-            </div>
-        </div>
-    </div>
     <div class="people-grid-item">
         <div class="flex-container">
             <!-- Amanda Lee -->
@@ -178,6 +157,27 @@
     </div>
     <div class="people-grid-item">
         <div class="flex-container">
+            <!-- Isha Singh -->
+            <div class="people-picture" style="position:relative">
+                <img class="people-img" src="/img/people/Isha_Singh_portrait_cropped.png" style="width:150px">
+            </div>
+            <div class="people-text">
+                <p style=font-weight:600;font-size:20px>Isha Singh</p>
+                <!-- <span style=font-weight:400>Email:</span> lee533 [at] pennmedicine.upenn.edu<br> -->
+                Undergraduate Student<br>
+                Drexel University<br>
+                <br>
+                <!-- <span style="text-decoration:none;font-weight:400">Education & Training:</span><br>
+                Postdoctoral Fellow <a class="link_out" href=https://meyersonlab.dana-farber.org/ target="blank">(Matthew Meyerson Lab)</a><br>
+                <i>Dana-Farber Cancer Institute and Broad Institute</i><br>
+                <br>
+                Ph.D., Immunology <a class="link_out" href=http://med.stanford.edu/felsherlab.html target="blank">(Dean Felsher Lab)</a><br>
+                <i>Stanford University School of Medicine></i><br> -->
+            </div>
+        </div>
+    </div>
+    <div class="people-grid-item">
+        <div class="flex-container">
             <!-- Chris Penney -->
             <div class="people-picture" style="position:relative">
                 <img class="people-img" src="/img/people/ChrisPenney_Photo.jpg" style="width:150px">
@@ -206,7 +206,7 @@
                 <p style=font-weight:600;font-size:20px>Lauren Lairson</p>
                 <!-- <span style=font-weight:400>Email:</span> none [at] pennmedicine.upenn.edu<br> -->
                 <span style="text-decoration:none;font-weight:400">Former Position: Research Technician</span><br>
-                <span style="text-decoration:none;font-weight:400">Current Position: Genetic Counseling Assistant (CHOP)<br>
+                <span style="text-decoration:none;font-weight:400">Current Position: Masters Student in Genetic Counseling (Penn)<br>
             </div>
         </div>
     </div>
@@ -224,13 +224,17 @@
             </div>
         </div>
     </div>
-        <div class="people-text">
+    <div class="people-text">
+        <p style=font-weight:600;font-size:20px>Elijah Thomas</p>
+        <!-- <span style=font-weight:400>Email:</span> none [at] pennmedicine.upenn.edu<br> -->
+        <span style="text-decoration:none;font-weight:400">SUIP Summer Student 2024 </span><br>
+    </div>
+    <div class="people-text">
         <p style=font-weight:600;font-size:20px>Adel Atari</p>
         <!-- <span style=font-weight:400>Email:</span> none [at] pennmedicine.upenn.edu<br> -->
         <span style="text-decoration:none;font-weight:400">Rotation Student Winter 2024</span><br>
     </div>    
-    </div>
-        <div class="people-text">
+    <div class="people-text">
         <p style=font-weight:600;font-size:20px>Arushi Sahay</p>
         <!-- <span style=font-weight:400>Email:</span> none [at] pennmedicine.upenn.edu<br> -->
         <span style="text-decoration:none;font-weight:400">Rotation Student Spring 2023</span><br>
