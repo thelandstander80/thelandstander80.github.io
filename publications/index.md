@@ -7,6 +7,10 @@ Journal citation
 \
 --->
 # Selected publications:
+* [Incomplete paralog compensation generates selective dependency on TRA2A in cancer.](https://pubmed.ncbi.nlm.nih.gov/40367120/)  
+    Lee AR, Tangiyan A, Singh I, **Choi PS**.  
+    *PLOS Genetics*. 2025 May 14;21(5):e1011685.
+
 * [Machine learning-optimized targeted detection of alternative splicing.](https://pubmed.ncbi.nlm.nih.gov/39727154/)  
     Yang K, Islas N, Jewell S, Wu D, Jha A, Radens CM, Pleiss JA, Lynch KW, Barash Y\*, **Choi PS\***.  
     *Nucleic Acids Research*. 2024 Dec 27:gkae1260.
